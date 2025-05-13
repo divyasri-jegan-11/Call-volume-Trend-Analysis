@@ -1,12 +1,5 @@
-# Call-volume-Trend-Analysis
-This is about Call volume trend analysis based on customer experience through call center optimization.
-<br>
-For better understanding and working in dataset with different features.
-<br>
-Can help in find in patterns and insights for the trend analysis.
+📞 Call Volume Trend Analysis
+📊 Overview
+This project performs Call Volume Trend Analysis using a dataset of call records to uncover patterns, peak periods, and seasonal variations in call volumes. The goal is to help businesses understand customer interaction trends over time and optimize staffing, support, and operations accordingly.
 
-
-
-It's basically my virtual internship program project that helps me in understanding the concept of working on Excel and Python. 
-Exploring the different forms of data and performing data handling makes the better understanding of data.
 

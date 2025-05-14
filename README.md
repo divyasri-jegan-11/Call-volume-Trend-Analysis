@@ -24,11 +24,11 @@ This project performs Call Volume Trend Analysis using a dataset of call records
 
 📈 Sample Insights
  
-  🕒 Peak hours: Most calls occurred between 10 AM and 2 PM
+  - 🕒 Peak hours: Most calls occurred between 10 AM and 2 PM
   
-  📅 High traffic on Mondays and Fridays
+  - 📅 High traffic on Mondays and Fridays
  
-  📉 Reduced activity during public holidays
+  - 📉 Reduced activity during public holidays
 
 
 

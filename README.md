@@ -13,11 +13,12 @@ This project performs Call Volume Trend Analysis using a dataset of call records
    - Provide insights for operational improvements
 
 📦 Technologies Used
-    - Python
-    - Pandas
-    - Matplotlib / Seaborn
-    - Excel(for interactive visualizations)
-    - Jupyter Notebook
+
+   - Python
+   - Pandas
+   - Matplotlib / Seaborn
+   - Excel(for interactive visualizations)
+   - Jupyter Notebook
 
 
 

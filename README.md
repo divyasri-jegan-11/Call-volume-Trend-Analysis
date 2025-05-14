@@ -12,6 +12,7 @@ This project performs Call Volume Trend Analysis using a dataset of call records
    - Visualize call volumes with time series plots
    - Provide insights for operational improvements
 
+
 📦 Technologies Used
 
    - Python
@@ -19,6 +20,15 @@ This project performs Call Volume Trend Analysis using a dataset of call records
    - Matplotlib / Seaborn
    - Excel(for interactive visualizations)
    - Jupyter Notebook
+
+
+📈 Sample Insights
+  🕒 Peak hours: Most calls occurred between 10 AM and 2 PM
+
+  📅 High traffic on Mondays and Fridays
+
+  📉 Reduced activity during public holidays
+
 
 
 

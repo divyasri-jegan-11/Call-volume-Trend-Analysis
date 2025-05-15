@@ -31,5 +31,19 @@ This project performs Call Volume Trend Analysis using a dataset of call records
   - 📉 Reduced activity during public holidays
 
 
+🚀 Getting Started
+     1. Clone the repository
+
+   ```bash```
+   
+   git clone https://github.com/yourusername/call-volume-trend-analysis.git
+   cd call-volume-trend-analysis
+
+   ```bash```
+
+
+
+
+
 
 
